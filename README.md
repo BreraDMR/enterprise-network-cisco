@@ -1,4 +1,16 @@
-# Enterprise Network Design — Coursework Project
+<div align="center">
+
+# 🌐 Enterprise Network Design
+
+**A three-storey, 18-room enterprise network — technology survey, extended-star model, VLAN/subnet plan, Cisco IOS configs and a reproducible cost estimate.**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](example-code/)
+[![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)](example-code/cisco-configs/)
+[![unit tests](https://img.shields.io/badge/unit%20tests-14%2F14%20passing-brightgreen?style=for-the-badge)](example-code/tests/)
+[![stdlib only](https://img.shields.io/badge/dependencies-none%20(stdlib)-success?style=for-the-badge)](example-code/)
+[![license](https://img.shields.io/badge/license-PolyForm--NC-blue?style=for-the-badge)](LICENSE)
+
+</div>
 
 A coursework project ("курсовий проєкт") designing an information &
 communication system for a typical three-storey, 18-room enterprise: a
@@ -16,7 +28,10 @@ IP addressing, or device configuration of any kind; this repo adds all
 three as example code, clearly marked as written for the portfolio rather
 than part of the graded submission.
 
-![Floor 1 network plan](diagrams/02-floor1-packet-tracer-topology.png)
+<div align="center">
+  <img src="diagrams/02-floor1-packet-tracer-topology.png" width="760" alt="Floor 1 network topology"/>
+  <br/><sub><b>Floor-1 topology</b> — extended-star: edge router → core switch → per-floor access switches → workstations.</sub>
+</div>
 
 ## Why this exists
 
