@@ -71,5 +71,6 @@ re-typed in English.
 ## License
 
 Licensed under [PolyForm Noncommercial 1.0.0](LICENSE) — free for personal,
-educational, and other noncommercial use. For a commercial license,
-contact Damir.
+educational, and other noncommercial use. Commercial use requires a separate
+license; contact damir.brera.eb@gmail.com.
+
